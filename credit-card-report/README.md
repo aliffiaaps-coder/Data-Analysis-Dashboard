@@ -21,15 +21,15 @@ Bank of America wants to create an annual profit report for 2023 so that bank ex
 - Added a scorecard to display a summary of a single metric and to visualize key performance indicators.
 
 ## Dashboard
-![image alt](credit-card-report/cc_american_bank_report.jpg)
+![image alt]([credit-card-report/cc_american_bank_report.jpg](https://github.com/aliffiaaps-coder/Data-Analysis-Dashboard/blob/356d15aad5bfeeb28a4c20a493a5f81ad50969a7/credit-card-report/cc_american_bank_report.jpg))
 
 <a href="https://github.com/aliffiaaps-coder/Data-Analysis-Dashboard/blob/main/credit-card-report/cc_american_bank_report.pdf">View Dashboard</a>
 
 ## Project Insight
-- Low Customer Satisfaction (Avg. Satisfaction Score: 2.25)
+- Low Customer Satisfaction (Avg. Satisfaction Score: 2.25).
 - The Businessman segment contributes the highest Interest Earned and the largest Total Transaction Volume.
 - The states of OR (33.33%) and PA (20%) show relatively high delinquency rates.
-- The largest portion of customer spending is allocated to the "Bills" category, followed by Fuel, Entertainment, and Groceries.
+- The largest portion of customer spending is allocated to the Bills category, followed by Fuel, Entertainment, and Groceries.
 
 ## Recommendations 
 To increase the bank's profitability, a strategic marketing plan focused on the Businessman and White-collar segments. This demographic generates the highest interest income and transaction volumes, albeit with high customer acquisition costs. However, the high acquisition expense is justified by the resulting profits. Strategic marketing involves offering credit cards or rewards programs with higher limits to further drive transaction volumes. At the same time, underwriting and credit scoring processes should be tightened in regions with a high risk of delinquency, such as Oregon (OR). To increase card utilization rates, promotional or cashback programs could be implemented, focusing on categories such as monthly bill and fuel purchases.
