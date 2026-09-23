@@ -4,7 +4,7 @@
 ## Project Objective
 Bank of America wants to create an annual profit report for 2023 so that bank executives can understand their customers and increase profitability in 2024 & 2025.
 
-## Questions (KPIs)
+## Key Performance Indicators (KPIs)
 - Number of Customer
 - Total Transaction Volume
 - Total Transaction Amount
@@ -13,7 +13,7 @@ Bank of America wants to create an annual profit report for 2023 so that bank ex
 - Average Customer Satisfaction
 - Average Utilization Ratio
 
-## Process
+## Workflow
 - Verify data for any missing values, duplicate and sort out the same.
 - Ensured the data is free from anomalies and every column in the dataset has the correct data type or format.
 - Dividing the dashboard into Customer Demographic, Customer Revenue Profile, and Customer Risk Profile.
@@ -21,14 +21,14 @@ Bank of America wants to create an annual profit report for 2023 so that bank ex
 - Added a scorecard to display a summary of a single metric and to visualize key performance indicators.
 
 ## Dashboard
-[!image alt]([cc_american_bank_report.pdf](https://github.com/user-attachments/files/32577554/cc_american_bank_report.pdf))](https://github.com/aliffiaaps-coder/Data-Analysis-Dashboard/blob/c65785175378a75cc9a1bee19ffe8233a16c1390/credit-card-report/cc_american_bank_report.pdf)](https://github.com/aliffiaaps-coder/Data-Analysis-Dashboard/blob/ee8a787b7b5707ead989ea9e553884af9bbda978/credit-card-report/cc_american_bank_report.jpg)
+![image alt]([cc_american_bank_report.pdf](https://github.com/user-attachments/files/32577554/cc_american_bank_report.pdf))](https://github.com/aliffiaaps-coder/Data-Analysis-Dashboard/blob/c65785175378a75cc9a1bee19ffe8233a16c1390/credit-card-report/cc_american_bank_report.pdf)](https://github.com/aliffiaaps-coder/Data-Analysis-Dashboard/blob/ee8a787b7b5707ead989ea9e553884af9bbda978/credit-card-report/cc_american_bank_report.jpg)
 <a href="https://github.com/aliffiaaps-coder/Data-Analysis-Dashboard/blob/main/credit-card-report/cc_american_bank_report.pdf">View Dashboard</a>
 
 ## Project Insight
-Low Customer Satisfaction (Avg. Satisfaction Score: 2.25)
-The Businessman segment contributes the highest Interest Earned and the largest Total Transaction Volume.
-The states of OR (33.33%) and PA (20%) show relatively high delinquency rates.
-The largest portion of customer spending is allocated to the "Bills" category, followed by Fuel, Entertainment, and Groceries.
+- Low Customer Satisfaction (Avg. Satisfaction Score: 2.25)
+- The Businessman segment contributes the highest Interest Earned and the largest Total Transaction Volume.
+- The states of OR (33.33%) and PA (20%) show relatively high delinquency rates.
+- The largest portion of customer spending is allocated to the "Bills" category, followed by Fuel, Entertainment, and Groceries.
 
 ## Recommendations 
 To increase the bank's profitability, a strategic marketing plan focused on the Businessman and White-collar segments. This demographic generates the highest interest income and transaction volumes, albeit with high customer acquisition costs. However, the high acquisition expense is justified by the resulting profits. Strategic marketing involves offering credit cards or rewards programs with higher limits to further drive transaction volumes. At the same time, underwriting and credit scoring processes should be tightened in regions with a high risk of delinquency, such as Oregon (OR). To increase card utilization rates, promotional or cashback programs could be implemented, focusing on categories such as monthly bill and fuel purchases.
