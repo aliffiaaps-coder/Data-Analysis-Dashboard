@@ -1,20 +1,18 @@
-# Credit Card Analysis (Interactive Dashboard using Looker Studio)
+# Credit Card Analysis
 ## Project Objective
 Bank of America wants to create an annual profit report for 2023 so that bank executives can understand their customers and increase profitability in 2024 & 2025.
 
 ## Dataset used
-- <a href="">Dataset</a>
+<a href="https://github.com/aliffiaaps-coder/Data-Analysis-Dashboard/blob/main/credit-card-report/dataset_cc_1.csv">Dataset</a>
 
 ## Questions (KPIs)
-Number of Customer
-Total Transaction Volume
-Total Transaction Amount
-Total Delinquent Account
-Interest Earned
-Average Customer Satisfaction
-Average Utilization Ratio
-
-- Dashboard Interaction <a href="">View Dashboard</a>
+- Number of Customer
+- Total Transaction Volume
+- Total Transaction Amount
+- Total Delinquent Account
+- Interest Earned
+- Average Customer Satisfaction
+- Average Utilization Ratio
 
 ## Process
 - Verify data for any missing values, duplicate and sort out the same.
@@ -26,6 +24,7 @@ Average Utilization Ratio
 ## Dashboard
 
 !([cc_american_bank_report.pdf](https://github.com/user-attachments/files/32577554/cc_american_bank_report.pdf))
+- <a href="https://github.com/aliffiaaps-coder/Data-Analysis-Dashboard/blob/main/credit-card-report/cc_american_bank_report.pdf">View Dashboard</a>
 
 ## Project Insight
 Low Customer Satisfaction (Avg. Satisfaction Score: 2.25)
