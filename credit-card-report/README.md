@@ -2,7 +2,7 @@
 **Dataset:** <a href="https://github.com/aliffiaaps-coder/Data-Analysis-Dashboard/blob/main/credit-card-report/dataset_cc_1.csv">Dataset</a>
 
 ## Project Objective
-Bank of America wants to create an annual profit report for 2023 so that bank executives can understand their customers and increase profitability in 2024 & 2025.
+Bank of America wants to create an annual profit report for the year 2023, so that bank executives can understand their customers and increase profitability in 2024 & 2025.
 
 ## Key Performance Indicators (KPIs)
 - Number of Customer
@@ -14,8 +14,8 @@ Bank of America wants to create an annual profit report for 2023 so that bank ex
 - Average Utilization Ratio
 
 ## Workflow
-- Verify data for any missing values, duplicate and sort out the same.
-- Ensured the data is free from anomalies and every column in the dataset has the correct data type or format.
+- Verify data for any missing values, duplicate, and sort out the same.
+- Ensured the data is free from anomalies and column in the dataset has the correct type or format.
 - Dividing the dashboard into Customer Demographic, Customer Revenue Profile, and Customer Risk Profile.
 - Apply chart and slicer for dynamic visual dashboard.
 - Added a scorecard to display a summary of a single metric and to visualize key performance indicators.
@@ -33,4 +33,4 @@ Bank of America wants to create an annual profit report for 2023 so that bank ex
 
 ## Recommendations 
 To increase the bank's profitability, a strategic marketing plan focused on the Businessman and White-collar segments. This demographic generates the highest interest income and transaction volumes, albeit with high customer acquisition costs. However, the high acquisition expense is justified by the resulting profits. Strategic marketing involves offering credit cards or rewards programs with higher limits to further drive transaction volumes. At the same time, underwriting and credit scoring processes should be tightened in regions with a high risk of delinquency, such as Oregon (OR). To increase card utilization rates, promotional or cashback programs could be implemented, focusing on categories such as monthly bill and fuel purchases.
-
+       
