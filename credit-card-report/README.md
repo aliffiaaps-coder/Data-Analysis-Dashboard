@@ -21,7 +21,8 @@ Bank of America wants to create an annual profit report for 2023 so that bank ex
 - Added a scorecard to display a summary of a single metric and to visualize key performance indicators.
 
 ## Dashboard
-![image alt]([cc_american_bank_report.pdf](https://github.com/user-attachments/files/32577554/cc_american_bank_report.pdf))](https://github.com/aliffiaaps-coder/Data-Analysis-Dashboard/blob/c65785175378a75cc9a1bee19ffe8233a16c1390/credit-card-report/cc_american_bank_report.pdf)](https://github.com/aliffiaaps-coder/Data-Analysis-Dashboard/blob/ee8a787b7b5707ead989ea9e553884af9bbda978/credit-card-report/cc_american_bank_report.jpg)
+![image alt](credit-card-report/cc_american_bank_report.jpg)
+
 <a href="https://github.com/aliffiaaps-coder/Data-Analysis-Dashboard/blob/main/credit-card-report/cc_american_bank_report.pdf">View Dashboard</a>
 
 ## Project Insight
