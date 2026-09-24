@@ -23,7 +23,7 @@ Bank of America wants to create an annual profit report for the year 2023, so th
 ## Dashboard
 ![image alt](https://github.com/aliffiaaps-coder/Data-Analysis-Dashboard/blob/356d15aad5bfeeb28a4c20a493a5f81ad50969a7/credit-card-report/cc_american_bank_report.jpg)
 
-<a href="https://github.com/aliffiaaps-coder/Data-Analysis-Dashboard/blob/main/credit-card-report/cc_american_bank_report.pdf">View Dashboard</a>
+<a href="https://datastudio.google.com/reporting/92502cb2-4567-48ec-a360-3ccaf4352a90">View Dashboard</a>
 
 ## Project Insight
 - Low Customer Satisfaction (Avg. Satisfaction Score: 2.25).
