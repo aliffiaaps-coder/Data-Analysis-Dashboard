@@ -20,7 +20,7 @@ A retail company has recently developed a transaction recording application. The
 ## Project Insight
 1. Sales peak season around May 2022 and August 2022.
 2. A steep drop occurred between October 2022 and December 2022.
-3. Transactions by payment method were dominated by COD (67.6%), followed by Payaxis (17.2%).
+3. Transactions by payment method are dominated by COD (67.6%) and followed by Payaxis (17.2%).
 4. Transactions by category are highest in Others (26.8%), Beauty & Grooming (20.2%), and Mobiles & Tablets (17.6%).
 5. The total discount budget spent is $33.83m.
 6. Based on the Product Summary, the IDROID_BALRX7-Gold and Macbook Pro generated massive profits without requiring discounts.
