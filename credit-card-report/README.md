@@ -1,4 +1,4 @@
-# Credit Card Analysis
+# 🏦 Credit Card Analysis
 **Dataset:** <a href="https://github.com/aliffiaaps-coder/Data-Analysis-Dashboard/blob/main/credit-card-report/dataset_cc_1.csv">Dataset</a>
 
 ## Project Objective
